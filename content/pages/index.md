@@ -43,7 +43,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: ''
+      label: RREA Enterprises
       color: text-primary
       type: Badge
     elementId: ''
