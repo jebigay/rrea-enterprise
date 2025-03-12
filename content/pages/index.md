@@ -69,7 +69,7 @@ sections:
           solution allows your team to work seamlessly and collaboratively in a
           protected space. 
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/image.svg
           altText: Placeholder Image
           styles:
             self:
