@@ -4,7 +4,9 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: >-
+        Focus mainly on Solar Panel Systems, ICT Services, Construction
+        Services, Accounting Services and Digital & Printing Services.
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
