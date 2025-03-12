@@ -55,7 +55,10 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: ''
+    subtitle: >-
+      RREA Enterprises is focus mainly on Solar Panel Systems, ICT Services,
+      Construction Services, Accounting Services and Digital & Printing
+      Services.
     items:
       - title: Feature Item One
         tagline: This is the tagline
