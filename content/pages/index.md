@@ -87,7 +87,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Feature Item Two
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: "It is now time to conserve energy and no to shocking electric bills. We conduct free assessment to know your demands and to facilitate better solar power system at a very reasonable price. Satisfaction guaranteed for 10-20\_years of durability that we provide.\n"
         image:
