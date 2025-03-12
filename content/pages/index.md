@@ -63,8 +63,11 @@ sections:
       - title: Feature Item One
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Enabling your workforce with top-notch technologies isn’t just
+          important, but imperative for business success. This customizable
+          solution allows your team to work seamlessly and collaboratively in a
+          protected space. 
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
