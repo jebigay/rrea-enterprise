@@ -7,7 +7,9 @@ sections:
       text: RREA Enterprises
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      is focus mainly on Solar Panel Systems, ICT Services, Construction
+      Services, Accounting Services and Digital & Printing Services.
     text: >
       RREA Enterprises is not just any IT company. It has a dedicated team
       striving to intently listen and understand customer’s needs and
