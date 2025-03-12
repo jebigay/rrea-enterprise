@@ -49,7 +49,7 @@ sections:
           - pb-16
           - pr-16
   - title:
-      text: List of features here
+      text: How can we help you?
       color: text-primary
       styles:
         self:
