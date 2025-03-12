@@ -143,10 +143,6 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
   - type: FeaturedItemsSection
     title:
       text: How can we help you?
