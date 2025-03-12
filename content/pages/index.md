@@ -56,7 +56,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: A Netlify Create website is a git repo that you own. Every code
     items:
       - type: FeaturedItem
         title: 500k
