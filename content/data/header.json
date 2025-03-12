@@ -13,6 +13,14 @@
     },
     "primaryLinks": [
         {
+            "label": "Home",
+            "url": "/pricing",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
             "label": "Services",
             "altText": "Dropdown",
             "links": [
@@ -43,14 +51,6 @@
             ],
             "labelStyle": "secondary",
             "type": "SubNav"
-        },
-        {
-            "label": "Home",
-            "url": "/pricing",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
         },
         {
             "label": "Customer Stories",
