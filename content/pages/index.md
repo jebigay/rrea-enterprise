@@ -581,11 +581,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "When in doubt, get in touch.\n\nLooking for a tailored total security solution or the missing piece? Unsure what you need?\_\n\nExplore the available solutions with your local partner or with your RREA representative. Check out our distribution map for more information or leave us a message.\n"
     media:
       fields:
         - name: name
