@@ -121,7 +121,7 @@ sections:
           *   Retention fees - maintenance
 
         image:
-          url: /images/image.png
+          url: /images/image (1).jpg
           altText: Placeholder image
           styles:
             self:
