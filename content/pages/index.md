@@ -22,7 +22,7 @@ sections:
       - label: Read more about us
         altText: ''
         url: /
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: secondary
