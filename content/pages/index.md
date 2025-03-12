@@ -84,7 +84,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Solar Power System
+      - title: QuickBooks Accounting System
         tagline: ''
         subtitle: ''
         text: "*   Software Installation\n\n*   Server / User setup\n\n*   Retention fee\_/ Maintenance\n\n*   Add-on Services\n\n"
