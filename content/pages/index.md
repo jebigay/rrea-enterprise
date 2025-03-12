@@ -54,9 +54,8 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: >-
-      RREA Enterprises is focus mainly on Solar Panel Systems, ICT Services,
-      Construction Services, Accounting Services and Digital & Printing
-      Services.
+      Solar Panel Systems, ICT Services, Construction Services, Accounting
+      Services and Digital & Printing Services.
     items:
       - title: CCTV Surveillance
         tagline: ''
