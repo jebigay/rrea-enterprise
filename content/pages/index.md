@@ -19,7 +19,7 @@ sections:
       behind all unique solutions that ultimately satisfy clients including
       products and services, health and safety standards.
     actions:
-      - label: Get started
+      - label: Read more about us
         altText: ''
         url: /
         showIcon: false
