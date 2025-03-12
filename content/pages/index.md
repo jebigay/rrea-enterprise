@@ -109,9 +109,7 @@ sections:
       - title: Feature Item Three
         tagline: ''
         subtitle: ''
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+        text: "*   Software Installation\n\n*   Server / User setup\n\n*   Retention fee\_/ Maintenance\n\n*   Add-on Services\n\n*   Computer / Laptop - Repair and Supply\n\n*   Software / Hardware\n\n*   Windows Server - Installation and Configuration\n\n*   Networking setup\n\n*   Retention fees - maintenance\n\n"
         image:
           url: /images/image.png
           altText: Placeholder image
