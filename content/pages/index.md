@@ -109,7 +109,17 @@ sections:
       - title: Information Communication Technology
         tagline: ''
         subtitle: ''
-        text: "*   Software Installation\n\n*   Server / User setup\n\n*   Retention fee\_/ Maintenance\n\n*   Add-on Services\n\n*   Computer / Laptop - Repair and Supply\n\n*   Software / Hardware\n\n*   Windows Server - Installation and Configuration\n\n*   Networking setup\n\n*   Retention fees - maintenance\n\n"
+        text: |+
+          *   Computer / Laptop - Repair and Supply
+
+          *   Software / Hardware
+
+          *   Windows Server - Installation and Configuration
+
+          *   Networking setup
+
+          *   Retention fees - maintenance
+
         image:
           url: /images/image.png
           altText: Placeholder image
