@@ -60,7 +60,7 @@ sections:
       Construction Services, Accounting Services and Digital & Printing
       Services.
     items:
-      - title: Feature Item One
+      - title: CCTV Surveillance
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: >
