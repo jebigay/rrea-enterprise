@@ -4,9 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: >-
-        Focus mainly on Solar Panel Systems, ICT Services, Construction
-        Services, Accounting Services and Digital & Printing Services.
+      text: RREA Enterprises
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
