@@ -167,7 +167,7 @@ sections:
       - url: /images/image (10).svg
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/sanity-logo.svg
+      - url: /images/image (11).svg
         altText: Sanity logo
         type: ImageBlock
       - url: /images/image (5).svg
