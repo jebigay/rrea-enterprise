@@ -106,7 +106,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
+      - title: Information Communication Technology
         tagline: ''
         subtitle: ''
         text: "*   Software Installation\n\n*   Server / User setup\n\n*   Retention fee\_/ Maintenance\n\n*   Add-on Services\n\n*   Computer / Laptop - Repair and Supply\n\n*   Software / Hardware\n\n*   Windows Server - Installation and Configuration\n\n*   Networking setup\n\n*   Retention fees - maintenance\n\n"
