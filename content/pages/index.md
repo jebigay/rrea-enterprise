@@ -150,7 +150,7 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Our Clients
     images:
       - url: /images/image (6).svg
         altText: Empathy logo
