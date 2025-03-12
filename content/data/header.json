@@ -21,15 +21,6 @@
             "type": "Link"
         },
         {
-            "label": "About Us",
-            "altText": "Blog",
-            "url": "/blog",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "Customer Stories",
             "altText": "Careers page",
             "url": "/careers",
@@ -69,6 +60,15 @@
             ],
             "labelStyle": "secondary",
             "type": "SubNav"
+        },
+        {
+            "label": "About Us",
+            "altText": "Blog",
+            "url": "/blog",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
         }
     ],
     "secondaryLinks": [],
