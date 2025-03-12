@@ -87,7 +87,7 @@ sections:
       - title: Solar Power System
         tagline: ''
         subtitle: ''
-        text: "It is now time to conserve energy and no to shocking electric bills. We conduct free assessment to know your demands and to facilitate better solar power system at a very reasonable price. Satisfaction guaranteed for 10-20\_years of durability that we provide.\n"
+        text: "*   Software Installation\n\n*   Server / User setup\n\n*   Retention fee\_/ Maintenance\n\n*   Add-on Services\n\n"
         image:
           url: /images/image.png
           altText: Placeholder image
