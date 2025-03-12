@@ -61,7 +61,7 @@ sections:
       Services.
     items:
       - title: CCTV Surveillance
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: >
           Enabling your workforce with top-notch technologies isn’t just
