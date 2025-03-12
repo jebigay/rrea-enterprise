@@ -600,7 +600,7 @@ sections:
           type: EmailFormControl
         - name: message
           label: Message
-          hideLabel: true
+          hideLabel: false
           placeholder: Your message
           width: full
           type: TextareaFormControl
