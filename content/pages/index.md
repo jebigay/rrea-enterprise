@@ -577,7 +577,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Contact Us Form
+      text: Contact Us
       color: text-dark
       type: TitleBlock
     subtitle: 'When in doubt, get in touch.'
