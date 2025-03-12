@@ -62,7 +62,7 @@ sections:
     items:
       - title: CCTV Surveillance
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           Enabling your workforce with top-notch technologies isn’t just
           important, but imperative for business success. This customizable
