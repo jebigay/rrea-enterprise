@@ -643,6 +643,7 @@ seo:
       content: >-
         Solar Panel Systems, ICT Services, Construction Services, Accounting
         Services and Digital & Printing Services.
+      property: 'og:description'
 type: PageLayout
 isDraft: false
 ---
