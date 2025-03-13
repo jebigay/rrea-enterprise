@@ -7,7 +7,13 @@ sections:
       text: RREA Enterprises
       color: text-dark
       type: TitleBlock
-    subtitle: ''
+    subtitle: >-
+      RREA Enterprises is not just any IT company. It has a dedicated team
+      striving to intently listen and understand customer’s needs and
+      requirements and creating the best system solutions possible. We are lead
+      by an IT Specialists and Licensed Engineers that are the brain behind all
+      unique solutions that ultimately satisfy clients including products and
+      services, health and safety standards.
     text: >
       RREA Enterprises is not just any IT company. It has a dedicated team
       striving to intently listen and understand customer’s needs and
