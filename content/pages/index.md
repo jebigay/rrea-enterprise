@@ -638,6 +638,8 @@ seo:
     health and safety standards.
   socialImage: /images/image 39.svg
   type: Seo
+  metaTags:
+    - type: MetaTag
 type: PageLayout
 isDraft: false
 ---
