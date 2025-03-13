@@ -643,7 +643,7 @@ seo:
     Specialists and Licensed Engineers that are the brain behind all unique
     solutions that ultimately satisfy clients including products and services,
     health and safety standards.
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/image 39.svg
   type: Seo
 type: PageLayout
 isDraft: false
