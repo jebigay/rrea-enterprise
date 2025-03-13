@@ -640,6 +640,9 @@ seo:
   type: Seo
   metaTags:
     - type: MetaTag
+      content: >-
+        Solar Panel Systems, ICT Services, Construction Services, Accounting
+        Services and Digital & Printing Services.
 type: PageLayout
 isDraft: false
 ---
